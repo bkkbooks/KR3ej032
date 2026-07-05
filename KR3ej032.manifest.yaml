@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej032_000.yaml, hash: 'sha256:4ac0b23a49bd4bb7e46b7663080a58986ab5f2e40e783970deb79ab5251d0474'}
+  - {seq: 0, filename: KR3ej032_000.yaml, hash: 'sha256:e27b5418094210538503cc4d1952ebf8b1be6bd0cca2a5a12f11f589bc2afc22'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej032_000.markers.yaml, hash: 'sha256:d9d01010d5bf9d05806b5cd3be8db0a4e6b0e272a6e24a1d08291f8f4a4646fd'}
+  - {seq: 0, role: markers, filename: assets/KR3ej032_000.markers.yaml, hash: 'sha256:21e2d9099b4fc413a145014c844f26f661fc3c8c5ef8a3fb8fa3b48ed77aa165'}
 table_of_contents:
 - ref:
     seq: 0
@@ -311,7 +311,4 @@ table_of_contents:
   label: 二十八小兒外治諸效方
   type: section
   level: 1
-hash: sha256:2995744c4a0b9d29e26c4f692b68b4fd0db4ee834a421d30a6fb055f12750399
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4f4e1565d8135316c2e6b15becfafe50ec86bb952843d8470b2d38780f9428d7
