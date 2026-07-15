@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej032/v1
 canonical_location: https://kanripo.org/bkk/KR3ej032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 小兒諸證補遺
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej032_000.yaml, hash: 'sha256:e27b5418094210538503cc4d1952ebf8b1be6bd0cca2a5a12f11f589bc2afc22'}
+  - {seq: 0, filename: KR3ej032_000.yaml, hash: 'sha256:7538c8658508262e4205b30b54fc358a7581d291a2f006d2a35e432bb6aa8b81'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej032_000.markers.yaml, hash: 'sha256:21e2d9099b4fc413a145014c844f26f661fc3c8c5ef8a3fb8fa3b48ed77aa165'}
+  - {seq: 0, role: markers, filename: assets/KR3ej032_000.markers.yaml, hash: 'sha256:e40f7c4e9628cb4aad241ea3c4120082a129602d5666c3129393690ecf1e580c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -311,4 +311,7 @@ table_of_contents:
   label: 二十八小兒外治諸效方
   type: section
   level: 1
-hash: sha256:4f4e1565d8135316c2e6b15becfafe50ec86bb952843d8470b2d38780f9428d7
+hash: sha256:ec28e2d2114061318180a6019e50c2fc4fcc12b51578211e22c38eb0bf1d0197
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
